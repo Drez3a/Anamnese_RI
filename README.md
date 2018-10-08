@@ -5,13 +5,13 @@ Projeto da disciplina de Recuperação da Informação, professor Luciano Barbos
 Engenho de Busca Vertical no domínio Saúde/Doenças_Sintomas.  
 Grupo: Andreza Fabiola e Anna Carolina
 
-## Sites do Domínio
+## Sites do Domínio (Seeds)
 
 -- Estruturado (id="sintomas"): Título "Sintomas" e lista
 
 1. Doenças de A a Z como Single Page com âncora para as letras  
 https://www.minhavida.com.br/saude/temas#letra-A
-2. https://minutosaudavel.com.br/doencas/
+2. https://minutosaudavel.com.br/doencas/ **(descartado)**
 
 -- Sintomas em lista, mas título variado (na mesma tag ou não)
 
@@ -27,7 +27,7 @@ https://www.mdsaude.com/
 -- Sintomas no meio do parágrafo 
 
 7. http://portalms.saude.gov.br/saude-de-a-z
-8. http://www.riocomsaude.rj.gov.br/site/conteudo/Fichas.aspx
+8. http://www.riocomsaude.rj.gov.br/site/conteudo/Fichas.aspx **(descartado)**
 9. Diferentes tags  
 http://www.portalnatural.com/doencas-de-a-a-z/
 10. Título variado e em diferentes tags  

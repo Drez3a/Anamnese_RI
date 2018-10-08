@@ -1,0 +1,66 @@
+# https://www.minhavida.com.br
+
+positivo https://www.minhavida.com.br/saude/temas/meningite
+positivo https://www.minhavida.com.br/saude/temas/rinite
+positivo https://www.minhavida.com.br/saude/temas/hipertireoidismo
+positivo https://www.minhavida.com.br/saude/temas/zika-virus
+positivo https://www.minhavida.com.br/saude/temas/diabetes
+positivo https://www.minhavida.com.br/saude/temas/dengue
+positivo https://www.minhavida.com.br/saude/temas/sifilis
+positivo https://www.minhavida.com.br/saude/temas/chikungunya
+positivo https://www.minhavida.com.br/saude/temas/anemia
+positivo https://www.minhavida.com.br/saude/temas/febre-amarela
+
+negativo https://www.minhavida.com.br/saude/temas/leptospirose negativo https://www.minhavida.com.br/saude/bulas/78-albendazol-comprimido-mastigavel
+negativo https://www.minhavida.com.br/guias/convivendo-com-artrite-psoriasica
+negativo https://www.minhavida.com.br/saude/temas/caxumba
+negativo https://www.minhavida.com.br/perguntas/sífilis
+negativo https://www.minhavida.com.br/saude/noticias/32108-em-dez-anos-os-casos-de-sifilis-em-bebes-negativo triplicaram-no-brasil
+negativo https://www.minhavida.com.br/politica
+negativo https://www.minhavida.com.br/temas/emagrecer
+negativo https://www.minhavida.com.br/saude/temas/dor-abdominal
+negativo https://www.minhavida.com.br/especialistas/5264-roberto-navarro-sousa-nilo
+
+# https://minutosaudavel.com.br  # a revisar
+
+# https://medicoresponde.com.br
+
+positivo https://medicoresponde.com.br/quais-sao-os-sintomas-da-leptospirose/
+positivo https://medicoresponde.com.br/sintomas-que-qualificam-os-casos-como-suspeitos-de-dengue/
+positivo https://medicoresponde.com.br/anemias-causas-sintomas-e-tratamentos-anemia-ferropriva/
+positivo https://medicoresponde.com.br/quais-sao-os-sintomas-da-malaria-e-como-ocorre-a-transmissao/
+positivo https://medicoresponde.com.br/o-que-e-o-zika-e-quais-os-sintomas/
+positivo https://medicoresponde.com.br/quais-sao-os-sintomas-de-intolerancia-a-lactose/
+positivo https://medicoresponde.com.br/quais-sao-os-sintomas-e-causas-de-uma-infeccao-urinaria/
+positivo https://medicoresponde.com.br/o-que-e-esofagite-erosiva-e-quais-os-sintomas/
+positivo https://medicoresponde.com.br/quais-os-sintomas-de-inflamacao-no-utero/
+positivo https://medicoresponde.com.br/o-que-e-distrofia-muscular/
+positivo https://medicoresponde.com.br/o-que-e-meningite/
+
+negativo https://medicoresponde.com.br/quais-sao-os-sintomas-da-leucemia/
+negativo https://medicoresponde.com.br/quais-os-sintomas-e-tratamento-da-sifilis/
+negativo https://medicoresponde.com.br/8-cuidados-que-a-mulher-gravida-deve-ter-para-prevencao-do-zika-virus/
+negativo https://medicoresponde.com.br/febre-vomito-e-diarreia-qual-tratamento-para-febre/
+negativo https://medicoresponde.com.br/fazer-duas-vezes-no-ano-a-vacina-da-febre-amarela/
+negativo https://medicoresponde.com.br/
+negativo https://medicoresponde.com.br/termos/
+negativo https://medicoresponde.com.br/minha-menstruacao-esta-irregular-o-que-pode-ser/
+negativo https://medicoresponde.com.br/dores-no-pescoco-e-ombros-dormencia-nos-olhos-e-labios-o-que-pode-ser/
+negativo https://medicoresponde.com.br/o-que-e-leishmaniose/
+
+# https://emagrecer.eco.br
+
+# https://www.tuasaude.com
+
+# https://www.mdsaude.com
+
+# http://portalms.saude.gov.br
+
+# http://www.riocomsaude.rj.gov.br  # a revisar
+
+# http://www.portalnatural.com
+
+# http://portal.saude.pe.gov.br
+
+
+
