@@ -21,7 +21,7 @@ negativo https://www.minhavida.com.br/temas/emagrecer
 negativo https://www.minhavida.com.br/saude/temas/dor-abdominal
 negativo https://www.minhavida.com.br/especialistas/5264-roberto-navarro-sousa-nilo
 
-# https://minutosaudavel.com.br  # a revisar
+# https://minutosaudavel.com.br  # descartado
 
 # https://medicoresponde.com.br
 
@@ -56,7 +56,7 @@ negativo https://medicoresponde.com.br/o-que-e-leishmaniose/
 
 # http://portalms.saude.gov.br
 
-# http://www.riocomsaude.rj.gov.br  # a revisar
+# http://www.riocomsaude.rj.gov.br  # descartado
 
 # http://www.portalnatural.com
 
